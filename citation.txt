@@ -1,0 +1,7 @@
+@inproceedings{REPO261,
+    author = "Lei, Chenyang and Chen, Qifeng",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "14811--14820",
+    title = "{Robust reflection removal with reflection-free flash-only cues}",
+    year = "2021"
+}
